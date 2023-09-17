@@ -2,7 +2,7 @@
 
 # Project Description
 
-We have create a chatbot in which you can upload a book or any other file in pdf format of your choice and ask questions regarding the topics within that book.
+We have created a chatbot in which you can upload a book or any other file in pdf format of your choice and ask questions regarding the topics within that book.
 
 # Team Name: Code-techies
 
