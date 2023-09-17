@@ -8,12 +8,12 @@ We have create a chatbot in which you can upload a book or any other file in pdf
 
 # Team Members:
 
-<p>1> Aditi Raj(Team Leader)</p>\n
-<p>2> Prabin Kumar Rajak (Frontend)</p>
-<p>3> Namrata Padhi(Frontend)</p>
-<p>4> Aditya Chauhan(Backend)</p>
-<p>5> Aniket Dey(Backend) </p>
-<p>6> Faizan Siddique(Backend)</p>
+<p>1. Aditi Raj(Team Leader)</p>
+<p>2. Prabin Kumar Rajak (Frontend)</p>
+<p>3. Namrata Padhi(Frontend)</p>
+<p>4. Aditya Chauhan(Backend)</p>
+<p>5. Aniket Dey(Backend) </p>
+<p>6. Faizan Siddique(Backend)</p>
 
 # Steps to Create a Chatbot
 
